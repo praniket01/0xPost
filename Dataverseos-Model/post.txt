@@ -1,0 +1,10 @@
+type post @createModel(accountRelation: LIST, description: "post") {
+    modelVersion: String! @string(maxLength: 100)
+    title : String @string(maxLength : 100)
+    description : String @string(maxLength : 1000)
+    image: String! @string(maxLength: 1000)
+    content: String @string(maxLength: 300000000)
+    createdAt: DateTime!
+    updatedAt: DateTime!
+    comments:  [String!] @list(maxLength: 1000000000) @string(maxLength: 100000000)
+  }

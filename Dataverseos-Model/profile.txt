@@ -1,0 +1,12 @@
+type postuser @createModel(accountRelation: SINGLE, description: "profile") {
+  author: DID! @documentAccount
+  version: CommitID! @documentVersion
+  name: String! @string(maxLength: 100)
+  description: String! @string(maxLength: 10000)
+  image: String! @string(maxLength: 1000)
+  backgroundImage: String! @string(maxLength: 1000)
+  socialMedia: String! @string(maxLength:100)
+  subscribed : [String!] @list(maxLength: 2000000) @string(maxLength: 2000000)
+  saved: [String!] @list(maxLength: 2000000)  @string(maxLength: 2000000)
+  address : String! @string(maxLength : 100)
+}

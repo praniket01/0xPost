@@ -47,8 +47,7 @@ const LoadPostById = ({phkwallet}) => {
       </div>
     :
     <div>No Post Available</div>
-    }   
-    <div className='h-20'></div>    
+    }       
     </div>
   )
   }

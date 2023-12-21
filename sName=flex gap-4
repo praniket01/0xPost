@@ -1,0 +1,144 @@
+[33mcommit c2df9c9ab89bcbf13d535d565d869431e302a323[m[33m ([m[1;36mHEAD -> [m[1;32mfrontend[m[33m)[m
+Author: praniket01 <106876236+praniket01@users.noreply.github.com>
+Date:   Sun Dec 10 11:01:38 2023 +0530
+
+    commited
+
+[33mcommit ee7c64240e26935509f600c7d3cfdf25f5e9cb84[m
+Merge: 4c6db9c f6f53d9
+Author: praniket01 <106876236+praniket01@users.noreply.github.com>
+Date:   Wed Dec 6 19:34:33 2023 +0530
+
+    Merge branch 'main' of https://github.com/0xkar4n/substack into frontend
+
+[33mcommit 4c6db9c0f1c85768b18e705357c5c460ecefa401[m
+Author: praniket01 <106876236+praniket01@users.noreply.github.com>
+Date:   Wed Dec 6 13:06:12 2023 +0530
+
+    commit frontend
+
+[33mcommit f6f53d948f78a96b51b781616b03720522e90ff6[m
+Author: 0xkar4n <karandas388@gmail.com>
+Date:   Wed Dec 6 13:04:39 2023 +0530
+
+    hook error
+
+[33mcommit 01677d3f0313e917fdd1fb9ef4ada1da6344c91e[m
+Merge: 57a92eb 162388a
+Author: 0xkar4n <karandas388@gmail.com>
+Date:   Tue Dec 5 14:05:37 2023 +0530
+
+    Merge remote-tracking branch 'origin/frontend'
+
+[33mcommit 57a92eb2dbdfb390cc8c58f319677b647db62e37[m
+Author: 0xkar4n <karandas388@gmail.com>
+Date:   Tue Dec 5 14:02:58 2023 +0530
+
+    Create Profile
+
+[33mcommit 162388acae7fb9aeb9c791af2234dfa1bd8a9111[m[33m ([m[1;31morigin/frontend[m[33m)[m
+Author: praniket01 <106876236+praniket01@users.noreply.github.com>
+Date:   Mon Dec 4 11:32:48 2023 +0530
+
+    Added posts button
+
+[33mcommit 4e92b88efe305af41889d39f13861d84df306513[m
+Author: praniket01 <106876236+praniket01@users.noreply.github.com>
+Date:   Mon Dec 4 11:28:22 2023 +0530
+
+    Added posts button
+
+[33mcommit 95e14e9f927dbe080dac23710e5dab15ab8ce27b[m
+Merge: 0203575 4bf3bce
+Author: 0xkar4n <karandas388@gmail.com>
+Date:   Sun Dec 3 17:30:12 2023 +0530
+
+    merged all things
+
+[33mcommit 0203575647095ac94d13dad9c047f280a72b2122[m
+Merge: 0ce8bbe 4f825f9
+Author: 0xkar4n <karandas388@gmail.com>
+Date:   Sun Dec 3 13:01:38 2023 +0530
+
+    merge frontend
+
+[33mcommit 0ce8bbe81528d6a8290737f3c8360a14232fad2c[m
+Merge: f928cc7 c2b457c
+Author: 0xkar4n <karandas388@gmail.com>
+Date:   Sun Dec 3 12:58:00 2023 +0530
+
+    sidebar changes
+
+[33mcommit 4bf3bce757fd4253f2926ce192d9d9aa004c364a[m
+Author: Ayush karpe <aayushkarpe041201@gmail.com>
+Date:   Sun Dec 3 12:40:33 2023 +0530
+
+    added filter and createUser
+
+[33mcommit 4f825f9ce09430758838685fbdc8cab57b4d3b65[m
+Author: praniket01 <106876236+praniket01@users.noreply.github.com>
+Date:   Sun Dec 3 12:36:17 2023 +0530
+
+    changes in profile,post
+
+[33mcommit f928cc725a8baa423363ab693a705bd8d8e73e6a[m
+Author: 0xkar4n <karandas388@gmail.com>
+Date:   Sat Dec 2 21:09:18 2023 +0530
+
+    Load posts and dynamic routing post
+
+[33mcommit c2b457c51ac74b3fff4d877fbb6b6457fb753879[m
+Author: praniket01 <106876236+praniket01@users.noreply.github.com>
+Date:   Sat Dec 2 14:02:54 2023 +0530
+
+    second commit
+
+[33mcommit 4c5a1aacd1afdc89ce37bf3608e686262d607105[m
+Author: Ayush karpe <aayushkarpe041201@gmail.com>
+Date:   Sat Dec 2 13:42:37 2023 +0530
+
+    fetch data
+
+[33mcommit 95147b99c41d4138180ccd5e7b86b0174bf9fc1d[m
+Merge: 6eeb6ff 71d6006
+Author: praniket01 <106876236+praniket01@users.noreply.github.com>
+Date:   Fri Dec 1 10:58:58 2023 +0530
+
+    Merge branch 'main' of https://github.com/0xkar4n/substack into frontend
+
+[33mcommit 71d60064380b76d93147f0945488d9dc689032ab[m
+Author: 0xkar4n <karandas388@gmail.com>
+Date:   Fri Dec 1 10:28:43 2023 +0530
+
+    sidebar & navbar changes
+
+[33mcommit 6eeb6ff5abb775757082fadf9816b34c7930e818[m
+Author: praniket01 <106876236+praniket01@users.noreply.github.com>
+Date:   Thu Nov 30 18:09:13 2023 +0530
+
+    commited
+
+[33mcommit 12f3cd724959dcc1743ea258243c871d1d5519ea[m
+Merge: 658a2a8 3516bbb
+Author: 0xkar4n <karandas388@gmail.com>
+Date:   Thu Nov 30 16:30:14 2023 +0530
+
+    Merge changes from frontend
+
+[33mcommit 658a2a8b8ed03e3e4ae50b20516638b2bf137670[m
+Author: 0xkar4n <karandas388@gmail.com>
+Date:   Thu Nov 30 16:04:49 2023 +0530
+
+    next-ui integration and testing
+
+[33mcommit 3516bbb53cc862facdd30e7a127dc7b596cf09b9[m
+Author: praniket01 <106876236+praniket01@users.noreply.github.com>
+Date:   Thu Nov 30 13:34:53 2023 +0530
+
+    frontend commit
+
+[33mcommit 65360f705ebfa496a8290031942f13934d140bd9[m
+Author: 0xkar4n <karandas388@gmail.com>
+Date:   Wed Nov 29 15:57:57 2023 +0530
+
+    first commit

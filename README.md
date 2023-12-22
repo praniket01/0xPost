@@ -1,6 +1,6 @@
-# OxPost:  A Decentralized Substack Application
+# 0xPost:  A Decentralized Substack Application
 
-OxPost is a decentralized substact platform built on the DataverseOS platform. It enables users to connect their wallets, create and manage user profiles, subscribe to profiles, and engage in gasless donations with personalized messages.
+0xPost is a decentralized substact platform built on the DataverseOS platform. It enables users to connect their wallets, create and manage user profiles, subscribe to profiles, and engage in gasless donations with personalized messages.
 
 ## Features
  
@@ -9,7 +9,7 @@ OxPost is a decentralized substact platform built on the DataverseOS platform. I
 - Create and View Posts: Users can create, view, and manage their blog posts. The platform supports rich text, images, and other media.
 - Subscription: Users can subscribe to other user's profiles, building a decentralized community of content creators.
 - Search Functionality: Explore and discover other users by leveraging the search feature, enhancing user engagement and content discovery.
-- Gasless Donations: OxPost supports gasless donations directly from user's Web3 wallets. Contributors can leave personalized messages along with their donations.
+- Donation: Using 0xPost donations users can directly support any creator from their Web3 wallets. Contributors can leave personalized messages along with their donations.
 
 ## Getting Started
 
@@ -36,6 +36,7 @@ OxPost is a decentralized substact platform built on the DataverseOS platform. I
 - MetaMask
 - Next.js
 - Tailwind CSS
+- Web3.js
 
 ## Frontend Images
 

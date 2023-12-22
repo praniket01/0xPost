@@ -55,7 +55,7 @@ const Subscribers = () => {
       if(pkh){
         fetchProfile();
       }
-    },[subscriber,pkh])
+    },[subscriber])
 
 
     useEffect(()=>{
